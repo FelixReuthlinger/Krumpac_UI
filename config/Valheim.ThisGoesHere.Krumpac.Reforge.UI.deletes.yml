@@ -1,0 +1,3 @@
+﻿PrintComment: ThisGoesHere removes Minimal UI default skins to use Reforge skins instead
+DeleteFolder:
+- config/Azumatt.MinimalUI_Backgrounds/Auga

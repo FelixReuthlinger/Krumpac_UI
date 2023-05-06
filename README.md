@@ -9,5 +9,3 @@ The UI pack is compatible to all Krumpac mods, but we cannot guarantee compatibi
 ## Content Copyright
 
 The designs and all customizations were done by `CODORΞ OLΞKSANDR#0007`, content belongs to him, the content was posted here with permission.
-
-
