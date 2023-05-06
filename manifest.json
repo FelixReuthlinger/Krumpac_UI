@@ -1,0 +1,14 @@
+{
+  "name": "Krumpac_Reforge_UI",
+  "description": "Mod pack that contains a selection of themed UI designs fitting to Krumpac Reforge.",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/8bNTB7xNrd",
+  "dependencies": [
+    "Azumatt-AzuClock-1.0.0",
+    "Azumatt-Cursor_Swapper-1.1.2",
+    "Azumatt-Minimal_UI-2.1.9",
+    "ComfyMods-Intermission-1.0.2",
+    "RandyKnapp-MinimalStatusEffects-1.0.3",
+    "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}
