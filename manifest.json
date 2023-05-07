@@ -1,7 +1,7 @@
 {
   "name": "Krumpac_Reforge_UI",
   "description": "Mod pack that contains a selection of themed UI designs fitting to Krumpac Reforge.",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://discord.gg/8bNTB7xNrd",
   "dependencies": [
     "ASharpPen-This_Goes_Here-2.1.1",
