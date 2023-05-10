@@ -11,7 +11,7 @@ This mod is an optional mod for use with [Krumpac Reforge](https://valheim.thund
     <b>Loading screens and texts</b>
     <img src="https://cdn.discordapp.com/attachments/1105911083794976809/1105911184542158870/20230510193055_1.jpg"/>
     <br>
-    <b>In-game UI</b>
+    <b>In-game user interface with custom backgrounds</b>
     <img src="https://cdn.discordapp.com/attachments/1105911083794976809/1105911214300729385/20230510193136_1.jpg"/>
     <br>
 </p>
