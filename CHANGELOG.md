@@ -1,3 +1,6 @@
+* 1.0.6 -> 
+    * increased icon sizes (sorry, I cannot see these small ones on my screen)
+    * changed key to change position to right-control (since some keyboards might not have a "home" button)
 * 1.0.5 -> 
     * fixed clock string to english instead of russian
     * updated dependencies
