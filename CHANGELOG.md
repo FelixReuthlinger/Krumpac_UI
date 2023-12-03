@@ -1,3 +1,4 @@
+* 1.0.8 -> updated dependencies
 * 1.0.7 ->
     * updated dependencies
     * dropped minimal status effects
