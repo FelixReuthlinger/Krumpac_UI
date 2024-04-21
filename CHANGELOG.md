@@ -1,3 +1,4 @@
+* 5.0.0 -> bumped version to align with other mods and updated dependencies
 * 1.0.8 -> updated dependencies
 * 1.0.7 ->
     * updated dependencies
