@@ -1,3 +1,4 @@
+* 5.0.1 -> fixed neon pink dialogue background coming from new config option (turned off now)
 * 5.0.0 -> bumped version to align with other mods and updated dependencies
 * 1.0.8 -> updated dependencies
 * 1.0.7 ->
