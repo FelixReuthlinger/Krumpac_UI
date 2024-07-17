@@ -1,3 +1,4 @@
+* 6.1.0 -> updated dependencies
 * 6.0.2 -> changed the default config for minimal UI
 * 6.0.1 -> updated dependencies
 * 6.0.0 -> updated dependencies for Ashlands version 0.218.15
