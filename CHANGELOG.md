@@ -1,3 +1,6 @@
+* 7.0.0 -> 
+    * updated dependencies
+    * fixed clock positioning to relative from absolute, should fit better for different screen sizes
 * 6.2.0 -> 
     * updated minimal UI configs for screen layout
     * updated readme to mention how to change configs
