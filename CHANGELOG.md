@@ -1,3 +1,6 @@
+* 7.1.0 ->
+    * updated dependencies
+    * for Valheim version 0.220.3
 * 7.0.0 -> 
     * updated dependencies
     * fixed clock positioning to relative from absolute, should fit better for different screen sizes
